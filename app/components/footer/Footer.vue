@@ -19,6 +19,12 @@
 
         <img class="footer__qr" src="/img/qr.jpg" alt="footer" />
       </div>
+      <span class="footer__dev">
+        Разработка сайта:
+        <a href="https://primedev.pro/" class="footer__dev-link" target="_blank"
+          >PRIMEDEV.PRO</a
+        >
+      </span>
     </div>
   </section>
 </template>
@@ -45,8 +51,8 @@
     }
   }
   &__qr {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     @media screen and (max-width: 1200px) {
       width: 80px;
       height: 80px;
@@ -106,6 +112,24 @@
       flex-direction: column;
       gap: 20px;
     }
+  }
+  &__dev {
+    display: block;
+    padding-top: 20px;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.4;
+    text-align: left;
+    @media screen and (max-width: 900px) {
+      text-align: center;
+    }
+  }
+  &__dev-link {
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.4;
   }
 }
 </style>

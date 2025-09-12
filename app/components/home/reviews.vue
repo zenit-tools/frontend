@@ -8,19 +8,18 @@
             Более 1000 довольных клиентов по всей России
           </p>
         </div>
-
         <div class="reviews__grid">
           <div class="reviews__card">
             <div class="reviews__card-header">
-              <div class="reviews__avatar">
-                <!-- <img
+              <!-- <div class="reviews__avatar"> -->
+              <!-- <img
                   src="/img/avatar-1.jpg"
                   alt="Александр"
                   class="reviews__avatar-img"
                 /> -->
-              </div>
+              <!-- </div> -->
               <div class="reviews__info">
-                <h3 class="reviews__name">Александр Петров</h3>
+                <h3 class="reviews__name">Игорь Л.</h3>
                 <div class="reviews__rating">
                   <span class="reviews__star">★</span>
                   <span class="reviews__star">★</span>
@@ -31,23 +30,25 @@
               </div>
             </div>
             <p class="reviews__text">
-              "Отличный сервис! Купил лазерный уровень ZENIT MINI 2D, качество
-              на высоте. Доставили быстро, все работает как часы. Рекомендую!"
+              "Лучи яркие и длинные. Затухание луча по мере удаления от
+              перекрестия не наблюдается. Все что заявлено в комплекте пришло.
+              держатель к металлической двери примагнитился крепко. На держателе
+              есть резиновые ножки чтобы не скользил по металлу."
             </p>
-            <div class="reviews__date">15 декабря 2024</div>
+            <div class="reviews__date">12 сентября 2025</div>
           </div>
 
           <div class="reviews__card">
             <div class="reviews__card-header">
-              <div class="reviews__avatar">
-                <!-- <img
+              <!-- <div class="reviews__avatar"> -->
+              <!-- <img
                   src="/img/avatar-2.jpg"
                   alt="Мария"
                   class="reviews__avatar-img"
                 /> -->
-              </div>
+              <!-- </div> -->
               <div class="reviews__info">
-                <h3 class="reviews__name">Мария Сидорова</h3>
+                <h3 class="reviews__name">Кирилл Федоров</h3>
                 <div class="reviews__rating">
                   <span class="reviews__star">★</span>
                   <span class="reviews__star">★</span>
@@ -58,24 +59,23 @@
               </div>
             </div>
             <p class="reviews__text">
-              "Шуруповерт ZENIT - просто находка! Мощный, удобный, батарея
-              держит долго. Цена адекватная, качество отличное. Спасибо за
-              быструю доставку!"
+              "Коробка, чехол, прибор, кронштейн, все качественно, надёжно,
+              красиво. Работает 100%. Рекомендую"
             </p>
-            <div class="reviews__date">8 декабря 2024</div>
+            <div class="reviews__date">6 сентября 2025</div>
           </div>
 
           <div class="reviews__card">
             <div class="reviews__card-header">
-              <div class="reviews__avatar">
-                <!-- <img
+              <!-- <div class="reviews__avatar"> -->
+              <!-- <img
                   src="/img/avatar-3.jpg"
                   alt="Дмитрий"
                   class="reviews__avatar-img"
                 /> -->
-              </div>
+              <!-- </div> -->
               <div class="reviews__info">
-                <h3 class="reviews__name">Дмитрий Козлов</h3>
+                <h3 class="reviews__name">Елена Корянская</h3>
                 <div class="reviews__rating">
                   <span class="reviews__star">★</span>
                   <span class="reviews__star">★</span>
@@ -86,11 +86,96 @@
               </div>
             </div>
             <p class="reviews__text">
-              "Угловая шлифовальная машина ZENIT - профессиональный инструмент!
-              Использую уже полгода, никаких нареканий. Гарантия работает,
-              сервис на высоте."
+              "Супер! Были переживания насчёт приборчика. Доехал отлично, в
+              коробке и в текстильными кейсе, без дефектов. Батарейки в
+              комплекте, все рабочее, луч зелёный. Рекомендую. Для дома самое
+              то!"
             </p>
-            <div class="reviews__date">2 декабря 2024</div>
+            <div class="reviews__date">4 сентября 2025</div>
+          </div>
+        </div>
+        <div class="reviews__grid">
+          <div class="reviews__card">
+            <div class="reviews__card-header">
+              <!-- <div class="reviews__avatar"> -->
+              <!-- <img
+                  src="/img/avatar-1.jpg"
+                  alt="Александр"
+                  class="reviews__avatar-img"
+                /> -->
+              <!-- </div> -->
+              <div class="reviews__info">
+                <h3 class="reviews__name">Кейт Желкунов</h3>
+                <div class="reviews__rating">
+                  <span class="reviews__star">★</span>
+                  <span class="reviews__star">★</span>
+                  <span class="reviews__star">★</span>
+                  <span class="reviews__star">★</span>
+                  <span class="reviews__star">★</span>
+                </div>
+              </div>
+            </div>
+            <p class="reviews__text">
+              "Для дачи, гаража, мелкого ремонта самое то!"
+            </p>
+            <div class="reviews__date">29 августа 2025</div>
+          </div>
+
+          <div class="reviews__card">
+            <div class="reviews__card-header">
+              <!-- <div class="reviews__avatar"> -->
+              <!-- <img
+                  src="/img/avatar-2.jpg"
+                  alt="Мария"
+                  class="reviews__avatar-img"
+                /> -->
+              <!-- </div> -->
+              <div class="reviews__info">
+                <h3 class="reviews__name">Алексей Болкуносов</h3>
+                <div class="reviews__rating">
+                  <span class="reviews__star">★</span>
+                  <span class="reviews__star">★</span>
+                  <span class="reviews__star">★</span>
+                  <span class="reviews__star">★</span>
+                  <span class="reviews__star">★</span>
+                </div>
+              </div>
+            </div>
+            <p class="reviews__text">
+              "Маленький, красивый, качественный. Стабилизация все работает.
+              Классный уровень, тем более цена соответствует товару."
+            </p>
+            <div class="reviews__date">25 августа 2025</div>
+          </div>
+
+          <div class="reviews__card">
+            <div class="reviews__card-header">
+              <!-- <div class="reviews__avatar"> -->
+              <!-- <img
+                  src="/img/avatar-3.jpg"
+                  alt="Дмитрий"
+                  class="reviews__avatar-img"
+                /> -->
+              <!-- </div> -->
+              <div class="reviews__info">
+                <h3 class="reviews__name">Черкай Андреев</h3>
+                <div class="reviews__rating">
+                  <span class="reviews__star">★</span>
+                  <span class="reviews__star">★</span>
+                  <span class="reviews__star">★</span>
+                  <span class="reviews__star">★</span>
+                  <span class="reviews__star">★</span>
+                </div>
+              </div>
+            </div>
+            <p class="reviews__text">
+              "Вертикаль по отвесу на 6 метрах погрешности нет, горизонталь
+              проверял по обычному(проверенному ) уровню, так же на 6 м. - всё
+              отлично. Есть индикатор заряда аккумуляторов, что очень важно,
+              строители поймут. Думаю, что на 5 - 6 метрах, работать будет
+              удобно."
+            </p>
+            <div class="reviews__date">25 августа 2025</div>
           </div>
         </div>
 
@@ -189,11 +274,11 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 30px;
-    margin-bottom: 80px;
+    margin-bottom: 40px;
     @media screen and (max-width: 1200px) {
       grid-template-columns: repeat(1, 1fr);
       gap: 20px;
-      margin-bottom: 40px;
+      margin-bottom: 20px;
     }
   }
 

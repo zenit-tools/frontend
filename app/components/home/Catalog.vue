@@ -41,106 +41,125 @@
             </div>
             <div class="catalog__card-content">
               <h3 class="catalog__card-title">
-                Профессиональный лазерный уровень ZENIT MINI 2D
+                Лазерный уровень ZENIT MINI 2D
               </h3>
               <p class="catalog__card-description">
-                16 линий 360 градусов, зеленый луч, откалиброван, гарантия,
-                пульт
+                ZENIT MINI 2D - это профессиональный инструмент, необходимый для
+                точных измерений в строительстве и ремонте.
               </p>
             </div>
             <div class="catalog__card-price">
-              <span class="catalog__price-current">От 15 990 ₽</span>
-              <NuxtLink to="/" class="catalog__card-btn">Смотреть</NuxtLink>
+              <span class="catalog__price-current">1 990 ₽</span>
+              <NuxtLink
+                to="/lazernye-urovni/product-1"
+                class="catalog__card-btn"
+                >Смотреть</NuxtLink
+              >
             </div>
           </div>
 
-          <div class="catalog__card">
-            <div class="catalog__card-image">
-              <img
-                src="/img/lazer-1.webp"
-                alt="Лазерный уровень ZENIT MINI 2D"
-                class="catalog__img"
-              />
-            </div>
-            <div class="catalog__card-content">
-              <h3 class="catalog__card-title">
-                Профессиональный лазерный уровень ZENIT MINI 2D
+          <div class="catalog__coming-soon">
+            <div class="catalog__coming-soon-content">
+              <div class="catalog__coming-soon-icon">
+                <svg width="48" height="48" viewBox="0 0 24 24" fill="none">
+                  <path
+                    d="M12 2L13.09 8.26L20 9L13.09 9.74L12 16L10.91 9.74L4 9L10.91 8.26L12 2Z"
+                    fill="currentColor"
+                  />
+                  <path
+                    d="M19 15L20.09 19.26L24 20L20.09 20.74L19 25L17.91 20.74L14 20L17.91 19.26L19 15Z"
+                    fill="currentColor"
+                  />
+                  <path
+                    d="M5 15L6.09 19.26L10 20L6.09 20.74L5 25L3.91 20.74L0 20L3.91 19.26L5 15Z"
+                    fill="currentColor"
+                  />
+                </svg>
+              </div>
+              <h3 class="catalog__coming-soon-title">
+                Скоро появится новый товар
               </h3>
-              <p class="catalog__card-description">
-                16 линий 360 градусов, зеленый луч, откалиброван, гарантия,
-                пульт
+              <p class="catalog__coming-soon-text">
+                Мы работаем над расширением ассортимента.
               </p>
-            </div>
-            <div class="catalog__card-price">
-              <span class="catalog__price-current">От 15 990 ₽</span>
-              <NuxtLink to="/" class="catalog__card-btn">Смотреть</NuxtLink>
             </div>
           </div>
-          <div class="catalog__card">
-            <div class="catalog__card-image">
-              <img
-                src="/img/lazer-1.webp"
-                alt="Лазерный уровень ZENIT MINI 2D"
-                class="catalog__img"
-              />
-            </div>
-            <div class="catalog__card-content">
-              <h3 class="catalog__card-title">
-                Профессиональный лазерный уровень ZENIT MINI 2D
+          <div class="catalog__coming-soon">
+            <div class="catalog__coming-soon-content">
+              <div class="catalog__coming-soon-icon">
+                <svg width="48" height="48" viewBox="0 0 24 24" fill="none">
+                  <path
+                    d="M12 2L13.09 8.26L20 9L13.09 9.74L12 16L10.91 9.74L4 9L10.91 8.26L12 2Z"
+                    fill="currentColor"
+                  />
+                  <path
+                    d="M19 15L20.09 19.26L24 20L20.09 20.74L19 25L17.91 20.74L14 20L17.91 19.26L19 15Z"
+                    fill="currentColor"
+                  />
+                  <path
+                    d="M5 15L6.09 19.26L10 20L6.09 20.74L5 25L3.91 20.74L0 20L3.91 19.26L5 15Z"
+                    fill="currentColor"
+                  />
+                </svg>
+              </div>
+              <h3 class="catalog__coming-soon-title">
+                Скоро появится новый товар
               </h3>
-              <p class="catalog__card-description">
-                16 линий 360 градусов, зеленый луч, откалиброван, гарантия,
-                пульт
+              <p class="catalog__coming-soon-text">
+                Мы работаем над расширением ассортимента.
               </p>
-            </div>
-            <div class="catalog__card-price">
-              <span class="catalog__price-current">От 15 990 ₽</span>
-              <NuxtLink to="/" class="catalog__card-btn">Смотреть</NuxtLink>
             </div>
           </div>
-          <div class="catalog__card">
-            <div class="catalog__card-image">
-              <img
-                src="/img/lazer-1.webp"
-                alt="Лазерный уровень ZENIT MINI 2D"
-                class="catalog__img"
-              />
-            </div>
-            <div class="catalog__card-content">
-              <h3 class="catalog__card-title">
-                Профессиональный лазерный уровень ZENIT MINI 2D
+          <div class="catalog__coming-soon">
+            <div class="catalog__coming-soon-content">
+              <div class="catalog__coming-soon-icon">
+                <svg width="48" height="48" viewBox="0 0 24 24" fill="none">
+                  <path
+                    d="M12 2L13.09 8.26L20 9L13.09 9.74L12 16L10.91 9.74L4 9L10.91 8.26L12 2Z"
+                    fill="currentColor"
+                  />
+                  <path
+                    d="M19 15L20.09 19.26L24 20L20.09 20.74L19 25L17.91 20.74L14 20L17.91 19.26L19 15Z"
+                    fill="currentColor"
+                  />
+                  <path
+                    d="M5 15L6.09 19.26L10 20L6.09 20.74L5 25L3.91 20.74L0 20L3.91 19.26L5 15Z"
+                    fill="currentColor"
+                  />
+                </svg>
+              </div>
+              <h3 class="catalog__coming-soon-title">
+                Скоро появится новый товар
               </h3>
-              <p class="catalog__card-description">
-                16 линий 360 градусов, зеленый луч, откалиброван, гарантия,
-                пульт
+              <p class="catalog__coming-soon-text">
+                Мы работаем над расширением ассортимента.
               </p>
-            </div>
-            <div class="catalog__card-price">
-              <span class="catalog__price-current">От 15 990 ₽</span>
-              <NuxtLink to="/" class="catalog__card-btn">Смотреть</NuxtLink>
             </div>
           </div>
-          <div class="catalog__card">
-            <div class="catalog__card-image">
-              <img
-                src="/img/lazer-1.webp"
-                alt="Лазерный уровень ZENIT MINI 2D"
-                class="catalog__img"
-              />
-              <div class="catalog__badge catalog__badge--sale">-23%</div>
-            </div>
-            <div class="catalog__card-content">
-              <h3 class="catalog__card-title">
-                Профессиональный лазерный уровень ZENIT MINI 2D
+          <div class="catalog__coming-soon">
+            <div class="catalog__coming-soon-content">
+              <div class="catalog__coming-soon-icon">
+                <svg width="48" height="48" viewBox="0 0 24 24" fill="none">
+                  <path
+                    d="M12 2L13.09 8.26L20 9L13.09 9.74L12 16L10.91 9.74L4 9L10.91 8.26L12 2Z"
+                    fill="currentColor"
+                  />
+                  <path
+                    d="M19 15L20.09 19.26L24 20L20.09 20.74L19 25L17.91 20.74L14 20L17.91 19.26L19 15Z"
+                    fill="currentColor"
+                  />
+                  <path
+                    d="M5 15L6.09 19.26L10 20L6.09 20.74L5 25L3.91 20.74L0 20L3.91 19.26L5 15Z"
+                    fill="currentColor"
+                  />
+                </svg>
+              </div>
+              <h3 class="catalog__coming-soon-title">
+                Скоро появится новый товар
               </h3>
-              <p class="catalog__card-description">
-                16 линий 360 градусов, зеленый луч, откалиброван, гарантия,
-                пульт
+              <p class="catalog__coming-soon-text">
+                Мы работаем над расширением ассортимента.
               </p>
-            </div>
-            <div class="catalog__card-price">
-              <span class="catalog__price-current">От 15 990 ₽</span>
-              <NuxtLink to="/" class="catalog__card-btn">Смотреть</NuxtLink>
             </div>
           </div>
         </div>
@@ -213,6 +232,10 @@
     &:hover {
       background: #5a9f5e;
       color: #ffffff;
+    }
+    &--next,
+    &--prev {
+      opacity: 0.5;
     }
     @media screen and (max-width: 1200px) {
       width: 35px;
@@ -294,6 +317,9 @@
     @media screen and (max-width: 1200px) {
       font-size: 14px;
     }
+    @media screen and (max-width: 488px) {
+      min-height: 1px;
+    }
   }
 
   &__card-description {
@@ -305,6 +331,9 @@
     margin: 0 0 20px 0;
     @media screen and (max-width: 1200px) {
       font-size: 12px;
+    }
+    @media screen and (max-width: 488px) {
+      margin: 0 0 0px 0;
     }
   }
 
@@ -350,6 +379,94 @@
       font-size: 12px;
       padding: 8px 10px;
     }
+  }
+
+  &__coming-soon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 400px;
+    background: linear-gradient(135deg, #f8f9fa 0%, #e8f5e8 100%);
+    border: 2px dashed #5a9f5e;
+    border-radius: 20px;
+    position: relative;
+    overflow: hidden;
+    max-width: 220px;
+    @media screen and (max-width: 635px) {
+      min-height: 300px;
+    }
+    @media screen and (max-width: 1124px) {
+      display: none;
+    }
+  }
+
+  &__coming-soon-content {
+    text-align: center;
+    z-index: 1;
+    position: relative;
+    padding: 15px 10px;
+  }
+
+  &__coming-soon-icon {
+    color: #5a9f5e;
+    margin-bottom: 20px;
+    animation: float 2s ease-in-out infinite;
+  }
+
+  &__coming-soon-title {
+    color: #000000;
+    font-family: 'Onest';
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 1.2;
+    margin: 0 0 15px 0;
+    background: linear-gradient(135deg, #000000, #5a9f5e);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+    @media screen and (max-width: 1200px) {
+      font-size: 18px;
+    }
+    @media screen and (max-width: 635px) {
+      font-size: 16px;
+    }
+  }
+
+  &__coming-soon-text {
+    color: #666666;
+    font-family: 'Onest';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.4;
+    margin: 0;
+    max-width: 300px;
+
+    @media screen and (max-width: 1200px) {
+      font-size: 14px;
+    }
+  }
+}
+
+@keyframes pulse {
+  0%,
+  100% {
+    transform: scale(1);
+    opacity: 0.5;
+  }
+  50% {
+    transform: scale(1.1);
+    opacity: 0.8;
+  }
+}
+
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-10px);
   }
 }
 </style>

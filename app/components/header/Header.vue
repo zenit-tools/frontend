@@ -1,22 +1,25 @@
 <template>
   <section class="header">
     <div class="container">
+      <NuxtLink to="/service" class="header__nav-link"
+        >Сервисный центр</NuxtLink
+      >
       <div class="header__wrapper">
-        <NuxtLink href="/" class="header__logo">ZENIT</NuxtLink>
+        <NuxtLink to="/" class="header__logo">ZENIT</NuxtLink>
         <nav class="header__nav">
           <ul class="list-reset header__nav-list">
             <li class="header__nav-item">
-              <NuxtLink href="/" class="header__nav-link"
+              <NuxtLink to="/lazernye-urovni" class="header__nav-link"
                 >Лазерные уровни</NuxtLink
               >
             </li>
             <li class="header__nav-item">
-              <NuxtLink href="/" class="header__nav-link"
+              <NuxtLink to="/shurupoverty" class="header__nav-link"
                 >Шуруповерты
               </NuxtLink>
             </li>
             <li class="header__nav-item">
-              <NuxtLink href="/" class="header__nav-link"
+              <NuxtLink to="/angle-grinders" class="header__nav-link"
                 >Угловые шлифовальные машины
               </NuxtLink>
             </li>
@@ -35,8 +38,8 @@
           </div>
           <div class="header__devLink">
             <img class="header__devLink-img" src="/img/mail.webp" alt="mail" />
-            <a href="mailto:info@example.com" class="header__link"
-              >info@example.com</a
+            <a href="mailto:info@zenit-tools.ru" class="header__link"
+              >info@zenit-tools.ru</a
             >
           </div>
         </div>
