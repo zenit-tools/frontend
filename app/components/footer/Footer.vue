@@ -17,7 +17,7 @@
 
         <NuxtLink href="/" class="footer__logo">ZENIT</NuxtLink>
 
-        <img class="footer__qr" src="/img/qr.jpg" alt="footer" />
+        <img class="footer__qr" src="/img/qrcode.png" alt="footer" />
       </div>
       <span class="footer__dev">
         Разработка сайта:
